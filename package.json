@@ -1,0 +1,14 @@
+{
+  "name": "gitissues",
+  "version": "1.0.0",
+  "description": "git issues repo!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Kurosawa",
+  "license": "ISC",
+  "dependencies": {
+    "resume-parser": "^1.1.0"
+  }
+}
