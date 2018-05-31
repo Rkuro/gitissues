@@ -9,6 +9,7 @@
   "author": "Robin Kurosawa",
   "license": "ISC",
   "dependencies": {
+    "marked": "^0.4.0",
     "resume-parser": "^1.1.0"
   }
 }
